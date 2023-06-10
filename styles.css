@@ -1,9 +1,11 @@
 /*  your css code here. If applicable */
+.heading
 .product_container {
 	width:80%;
 	display: grid;
 	grid-template-column: 33% 67%;
 }
 .summary{
+	background-color:rgb(247, 251, 255);
 	border-top:2px solid rgb(94, 164, 243);
 }
