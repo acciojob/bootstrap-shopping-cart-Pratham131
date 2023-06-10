@@ -1,5 +1,10 @@
 /*  your css code here. If applicable */
-.heading
+
+.heading h1{
+	display: block;
+	text-align: center;
+	color: #3b99e0;
+}
 .product_container {
 	width:80%;
 	display: grid;
