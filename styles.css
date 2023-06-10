@@ -1,1 +1,5 @@
 /*  your css code here. If applicable */
+.product_container {
+	display: grid;
+	grid-template-column: 67% 33%;
+}
